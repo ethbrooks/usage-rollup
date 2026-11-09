@@ -1,0 +1,6 @@
+{"timestamp":"2026-11-01T08:12:31Z","account":"acct_4021","metric":"jobs_completed","units":12}
+{"timestamp":"2026-11-01T08:18:04Z","account":"acct_4021","metric":"jobs_completed","units":8}
+{"timestamp":"2026-11-01T08:21:19Z","account":"acct_7314","metric":"jobs_completed","units":5}
+{"timestamp":"2026-11-01T08:22:02Z","account":"acct_4021","metric":"storage_gb_hours","units":1.25}
+{"timestamp":"2026-11-01T09:22:02Z","account":"acct_4021","metric":"storage_gb_hours","units":1.5}
+{"timestamp":"2026-11-02T00:05:47Z","account":"acct_7314","metric":"jobs_completed","units":3}
