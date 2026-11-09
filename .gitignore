@@ -1,0 +1,5 @@
+node_modules/
+*.log
+events.jsonl
+output/
+.DS_Store
