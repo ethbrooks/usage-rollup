@@ -1,0 +1,14 @@
+{
+  "name": "usage-rollup",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily account usage totals from worker event logs.",
+  "scripts": {
+    "start": "node src/index.js",
+    "preview": "node src/index.js --input samples/usage.jsonl --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
